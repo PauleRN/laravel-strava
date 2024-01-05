@@ -1,6 +1,6 @@
 {
-    "name": "codetoad/strava",
-    "description": "A laravel package to access data from the Strava API.",
+    "name": "rn/strava",
+    "description": "A laravel package to access data from the Strava API. Forked from codetoad/strava to permit Laravel 10 compatibility.",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^6.3|^7.0.1|^7.2",
